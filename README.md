@@ -29,3 +29,9 @@ Output graphic image is in ***cam_pos.jpg***. Numerical output is in ***stat.txt
 Find the vertexes of the QR code and solve the PnP problem using OpenCV built-in function.
 
 The vertexes are found through finding the square contours in the images and estimate the vertexes.
+
+## Camera Intrinsic Matrix
+
+The camera intrinsic matrix used in the code is a guess of iPhone 6 camera using problem stated [here](http://phototour.cs.washington.edu/focal.html). 
+
+The distortion coefficient is defined to be zero.
