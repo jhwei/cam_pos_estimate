@@ -1,0 +1,9 @@
+The location of 6719 is at x: 19.07 cm, y: -15.83 cm, z: 88.29 cm, Pitch is -165.59 degrees, Yaw is 2.29 degrees, Roll is 37.56 degrees.
+The location of 6720 is at x: 42.14 cm, y: -2.03 cm, z: 81.70 cm, Pitch is -155.87 degrees, Yaw is -3.27 degrees, Roll is 87.35 degrees.
+The location of 6721 is at x: 26.99 cm, y: 39.24 cm, z: 79.15 cm, Pitch is -152.74 degrees, Yaw is -0.31 degrees, Roll is 140.48 degrees.
+The location of 6722 is at x: 0.82 cm, y: 47.42 cm, z: 81.55 cm, Pitch is -153.79 degrees, Yaw is -4.57 degrees, Roll is -176.61 degrees.
+The location of 6723 is at x: -35.88 cm, y: 25.99 cm, z: 86.25 cm, Pitch is -157.58 degrees, Yaw is -0.67 degrees, Roll is -128.56 degrees.
+The location of 6724 is at x: -46.44 cm, y: -3.06 cm, z: 82.48 cm, Pitch is -155.13 degrees, Yaw is -0.38 degrees, Roll is -88.96 degrees.
+The location of 6725 is at x: 4.39 cm, y: 1.24 cm, z: 57.94 cm, Pitch is -179.76 degrees, Yaw is 2.71 degrees, Roll is -9.20 degrees.
+The location of 6726 is at x: 4.28 cm, y: 1.58 cm, z: 77.78 cm, Pitch is -177.95 degrees, Yaw is 1.48 degrees, Roll is 10.22 degrees.
+The location of 6727 is at x: -14.54 cm, y: 1.39 cm, z: 102.25 cm, Pitch is 178.37 degrees, Yaw is -7.53 degrees, Roll is 33.98 degrees.
